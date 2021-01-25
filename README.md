@@ -1,4 +1,4 @@
-# HTMLExercises
+# HTML Øvelser
 
 ## Formål
 At få afprøvet vores nuværende viden om HTML, samtidigt med at vi får repeteret det allrede kendte og sidst men ikke mindst få lagt lidt til den eksisterende viden.
