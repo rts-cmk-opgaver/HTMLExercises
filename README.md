@@ -13,7 +13,7 @@ Efter nogen af øvelserne vil der være en reference til en bestemt øvelse ex. 
 Som nævnt ovenfor er det muligt at få et hint til hvordan øvelserne kan løses. Det er ikke hensigtsmæssigt at benytte et hint, før du har forsøgt på egen hånd. Kan du ikke ud fra din viden, hukommelse eller et kvalificeret gæt løse opgaven, anbefales det er man førsøger at Google en løsning inden hintet tages i brug. På den måde for du det største udbytte af øvelserne.
 
 **Listen over øvelser**<br>
-*OBS: Det er ikke den komplette øvelsesliste, så liten herunder er et udpluk og det er kun dem du skal arbejde med* 
+*OBS: Ud skal ikke løse alle øvelser! Herunder finder du et udpluk, og det er kun disse øvelser du skal arbejde med*
 
 * HTML Attributes
 * HTML Headings
